@@ -156,7 +156,7 @@ cd backend
 uv sync
 
 # Create environment file
-cp .env.example .env
+cp .env.example .env [I have added values in the Google Doc]
 # Edit .env with your API keys:
 # GOOGLE_API_KEY=your_google_api_key
 # PINECONE_API_KEY=your_pinecone_api_key
