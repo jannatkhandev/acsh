@@ -1,15 +1,15 @@
 # Nora - Atlan Support Chatbot
-Inspiration from Prukalpa Mam’s LinkedIn post about first AI Employee at Atlan.
+Inspiration from [Prukalpa Mam’s LinkedIn post](https://www.linkedin.com/posts/prukalpa_updates-activity-7357581444539445250-9pxI/) about first AI Employee at Atlan.
 
-Hence, I named my Agent AI and used the same photo from the post screenshot.
+Hence, I named my Agent AI and used the same photo from the post screenshot :).
 
 <div align="center">
   <img src="frontend/public/images/nora.webp" alt="Nora Logo" width="200" height="200"/>
   
-  **Intelligent AI-powered customer support chatbot for Atlan**
+  **AI-powered customer support chatbot for Atlan**
   
-  Built with LangGraph, FastAPI, Next.js 15, and RAG-powered document search
-  
+  **Built with LangGraph + Prompt Versioning/Observability/Evals with LangSmith**
+    
   [![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://python.org)
   [![FastAPI](https://img.shields.io/badge/FastAPI-0.116+-green.svg)](https://fastapi.tiangolo.com)
   [![Next.js](https://img.shields.io/badge/Next.js-15-black.svg)](https://nextjs.org)
